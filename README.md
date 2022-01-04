@@ -5,6 +5,10 @@
 
 # OS
 >[프로세스 스케줄링, 그리고 기법](https://velog.io/@hax0r/%EC%84%A0%EC%A0%90%EB%B9%84%EC%84%A0%EC%A0%90-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81) 
+
+
+# Docker
+>[초보를 위한 도커 안내서 - 도커란 무엇인가?](hhttps://subicura.com/2017/01/19/docker-guide-for-beginners-1.html) 
 >
 
 
