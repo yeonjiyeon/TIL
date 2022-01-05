@@ -9,6 +9,10 @@
 
 # Docker
 >[초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html) 
+
+
+# 보안
+>[(Crypto) 해시(hash)란?](https://medium.com/@su_bak/crypto-%ED%95%B4%EC%8B%9C-hash-%EB%9E%80-6962be197523) 
 >
 
 
