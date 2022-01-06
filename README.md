@@ -13,6 +13,10 @@
 
 # 보안
 >[(Crypto) 해시(hash)란?](https://medium.com/@su_bak/crypto-%ED%95%B4%EC%8B%9C-hash-%EB%9E%80-6962be197523) 
+
+
+# Spring
+>[JTA를 이용한 글로벌/분산 트랜잭션](https://springsource.tistory.com/m/138) 
 >
 
 
