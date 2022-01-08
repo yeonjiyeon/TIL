@@ -20,6 +20,6 @@
 
 # Network
 >[SSH란?](https://baked-corn.tistory.com/52) 
->
+>[잘 알려진 포트](https://ko.wikipedia.org/wiki/TCP/UDP%EC%9D%98_%ED%8F%AC%ED%8A%B8_%EB%AA%A9%EB%A1%9D)
 
 
