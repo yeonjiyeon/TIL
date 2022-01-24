@@ -28,8 +28,10 @@
 # Linux
 >[쉽게 설명한 nohub과 & (백그라운드)명령어 ](https://joonyon.tistory.com/98)
 
-# GitHub
+# Git & GitHub
 >[GitHub Gist 사용법 (Medium code highlight)](https://medium.com/@dayong/github-gist-%EC%82%AC%EC%9A%A9%EB%B2%95-medium-code-highlight-8f92ad5f5d6e)
+>
+>[Learn Git Branching]https://jyami.tistory.com/151
 
 # Server
 >[Apache vs Nginx](https://youngmind.tistory.com/m/entry/Apache-vs-Nginx)
