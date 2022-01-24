@@ -22,7 +22,7 @@
 
 # Network
 >[SSH란?](https://baked-corn.tistory.com/52) 
->https://youngmind.tistory.com/m/entry/Apache-vs-Nginx
+>
 >[잘 알려진 포트](https://ko.wikipedia.org/wiki/TCP/UDP%EC%9D%98_%ED%8F%AC%ED%8A%B8_%EB%AA%A9%EB%A1%9D)
 
 # Linux
@@ -30,4 +30,8 @@
 
 # GitHub
 >[GitHub Gist 사용법 (Medium code highlight)](https://medium.com/@dayong/github-gist-%EC%82%AC%EC%9A%A9%EB%B2%95-medium-code-highlight-8f92ad5f5d6e)
+
+# Server
+>[Apache vs Nginx]https://youngmind.tistory.com/m/entry/Apache-vs-Nginx
+
 
