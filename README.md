@@ -24,6 +24,10 @@
 >[SSH란?](https://baked-corn.tistory.com/52) 
 >
 >[잘 알려진 포트](https://ko.wikipedia.org/wiki/TCP/UDP%EC%9D%98_%ED%8F%AC%ED%8A%B8_%EB%AA%A9%EB%A1%9D)
+>
+>[포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html)
+
+
 
 # Linux
 >[쉽게 설명한 nohub과 & (백그라운드)명령어 ](https://joonyon.tistory.com/98)
