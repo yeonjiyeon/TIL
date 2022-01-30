@@ -26,7 +26,9 @@
 >[잘 알려진 포트](https://ko.wikipedia.org/wiki/TCP/UDP%EC%9D%98_%ED%8F%AC%ED%8A%B8_%EB%AA%A9%EB%A1%9D)
 >
 >[포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html)
+>
 >[L4/L7 스위치의 대안, 오픈 소스 로드 밸런서 HAProxy](https://d2.naver.com/helloworld/284659)
+>[배포전략의 종류(롤링/카나리 배포/블루 그린)](https://reference-m1.tistory.com/211)
 
 
 
