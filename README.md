@@ -30,6 +30,8 @@
 >[L4/L7 스위치의 대안, 오픈 소스 로드 밸런서 HAProxy](https://d2.naver.com/helloworld/284659)
 >
 >[배포전략의 종류(롤링/카나리 배포/블루 그린)](https://reference-m1.tistory.com/211)
+>
+>[L4 load balancer vs L7 load balancer 란?](https://velog.io/@makeitcloud/%EB%9E%80-L4-load-balancer-vs-L7-load-balancer-%EB%9E%80)
 
 
 
