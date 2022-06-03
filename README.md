@@ -42,7 +42,7 @@
 
 ### 강연 들은 것
 
-[헤이 조이스 ](https://www.notion.so/bca9766051fe490c8f6fa847a81d459a)
+[헤이 조이스 해외이직](https://www.notion.so/bca9766051fe490c8f6fa847a81d459a)
 
 [4월 유쾌한 수다 타임- 이동욱님](https://www.notion.so/4-69c7c9f02e504ee2a8932aab8018464e)
 
