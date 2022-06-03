@@ -6,6 +6,8 @@
 1. [객체지향의 사실과 오해](https://www.notion.so/adb2d69901e24d2db2d10a44e60854f3)
 2. [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://www.notion.so/2df044cad564454cbe13227097fe9223)
 3. [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.notion.so/bf401634f93543a1b73520d30e003419)
+<br/>
+<br/>
 
 # 인강들은 것 정리
 
@@ -35,9 +37,12 @@
 
 [Docker & Kubernetes: 실전 가이드](https://www.notion.so/Docker-Kubernetes-27b8dc42071740bdb503a15120e3747d)
 
+<br/>
+<br/>
+
 ### 강연 들은 것
 
-[[헤이조이스 해외이직](https://www.notion.so/97bd4be544df4c1392fb1a86448c2d82)](https://www.notion.so/bca9766051fe490c8f6fa847a81d459a)
+[헤이조이스 해외이직](https://www.notion.so/97bd4be544df4c1392fb1a86448c2d82)](https://www.notion.so/bca9766051fe490c8f6fa847a81d459a)
 
 [4월 유쾌한 수다 타임- 이동욱님](https://www.notion.so/4-69c7c9f02e504ee2a8932aab8018464e)
 
