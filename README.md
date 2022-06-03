@@ -11,7 +11,7 @@
 
 # 인강들은 것 정리
 
-[스프링 입문 정리](https://www.notion.so/2780270f807341708c889e944bd880d4)
+[스프링 입문 정리](https://github.com/yeonjiyeon/TIL-/blob/main/%EC%9D%B8%EA%B0%95%EB%93%A4%EC%9D%80%20%EA%B2%83%20%EC%A0%95%EB%A6%AC/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9E%85%EB%AC%B8.md)
 
 [스프링 핵심 원리](https://www.notion.so/73cded086f6a4ec3a2f39242c27814a4)
 
