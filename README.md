@@ -25,15 +25,13 @@
 
 [Spring Boot를 이용한 RESTful Web Service 개발](https://www.notion.so/Spring-Boot-RESTful-Web-Service-3d77dd361bcc4d0c9c019c3b4fb08464)
 
-[**코딩으로 학습하는 GoF의 디자인 패턴**](https://www.notion.so/GoF-0b1c921f43d54480a367c0f38ddda60a)
+[코딩으로 학습하는 GoF의 디자인 패턴](https://www.notion.so/GoF-0b1c921f43d54480a367c0f38ddda60a)
 
-[**현직 대기업 개발자 푸와 함께하는 진짜 백엔드 시스템 실무!**](https://www.notion.so/8a676192ba6d43038106054beb6da158)
+[현직 대기업 개발자 푸와 함께하는 진짜 백엔드 시스템 실무!](https://www.notion.so/8a676192ba6d43038106054beb6da158)
 
-**[스프링과 JPA 기반 웹 애플리케이션 개발](https://www.notion.so/JPA-d48e42dfb52a40d4af0630145c128760)**
+[스프링과 JPA 기반 웹 애플리케이션 개발](https://www.notion.so/JPA-d48e42dfb52a40d4af0630145c128760)
 
 [초보를 위한 도커 안내서](https://www.notion.so/048e254a6c68402fa99a6e2e6da7892f)
-
-**[대세는 쿠버네티스 [초급~중급]](https://www.notion.so/d3f329b22a6042cc838fac0af2190c3b)**
 
 [Docker & Kubernetes: 실전 가이드](https://www.notion.so/Docker-Kubernetes-27b8dc42071740bdb503a15120e3747d)
 
