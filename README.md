@@ -1,7 +1,10 @@
 # Today I Learn 학습한 내용들 정리! 
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-# 읽은 책 정리
+## 읽은 책 정리
 
 1. [객체지향의 사실과 오해](https://www.notion.so/adb2d69901e24d2db2d10a44e60854f3)
 2. [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://www.notion.so/2df044cad564454cbe13227097fe9223)
@@ -9,7 +12,7 @@
 <br/>
 <br/>
 
-# 인강들은 것 정리
+## 인강들은 것 정리
 
 [스프링 입문 정리](https://github.com/yeonjiyeon/TIL-/blob/main/%EC%9D%B8%EA%B0%95%EB%93%A4%EC%9D%80%20%EA%B2%83%20%EC%A0%95%EB%A6%AC/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9E%85%EB%AC%B8.md)
 
@@ -38,7 +41,7 @@
 <br/>
 <br/>
 
-# 강연 들은 것
+## 강연 들은 것
 
 [4월 유쾌한 수다 타임- 이동욱님](https://www.notion.so/4-69c7c9f02e504ee2a8932aab8018464e)
 
