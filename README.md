@@ -2,7 +2,7 @@
 
 ## 읽은 책 정리
 
-1. [객체지향의 사실과 오해](https://www.notion.so/adb2d69901e24d2db2d10a44e60854f3)
+1. [객체지향의 사실과 오해](https://github.com/yeonjiyeon/readingstudy/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4)
 2. [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://www.notion.so/2df044cad564454cbe13227097fe9223)
 3. [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.notion.so/bf401634f93543a1b73520d30e003419)
 <br/>
