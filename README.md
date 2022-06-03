@@ -19,7 +19,7 @@
 
 [HTTP 웹 기본 지식](https://www.notion.so/HTTP-1688310acd0842c6a0cc42233c34983f)
 
-[[자바 ORM 표준 JPA 프로그래밍](https://www.notion.so/dataStructure-66e71cc6b2bc4d9f97dc881611707e75)](https://www.notion.so/ORM-JPA-0df6c127e92c41dbb4888af9ff015acd)
+[자바 ORM 표준 JPA 프로그래밍](https://www.notion.so/ORM-JPA-0df6c127e92c41dbb4888af9ff015acd)
 
 [스프링부트와 JPA활용](https://www.notion.so/JPA-536c68e7036e4a17b201a24ff1cc7f33)
 
