@@ -3,7 +3,7 @@
 ## 읽은 책 정리
 
 1. [객체지향의 사실과 오해](https://www.notion.so/adb2d69901e24d2db2d10a44e60854f3)
-2. [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://www.notion.so/2df044cad564454cbe13227097fe9223)
+2. [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://github.com/yeonjiyeon/readingstudy/tree/main/%EC%9E%90%EB%B0%94%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%9B%90%EB%A6%AC%EC%99%80%20%EC%9D%B4%ED%95%B4)
 
 <br/>
 <br/>
