@@ -12,7 +12,7 @@
 
 [스프링 입문 정리](https://github.com/yeonjiyeon/TIL-/blob/main/%EC%9D%B8%EA%B0%95%EB%93%A4%EC%9D%80%20%EA%B2%83%20%EC%A0%95%EB%A6%AC/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9E%85%EB%AC%B8.md)
 
-[스프링 핵심 원리](https://www.notion.so/73cded086f6a4ec3a2f39242c27814a4)
+[스프링 핵심 원리](https://github.com/yeonjiyeon/TIL-/tree/main/%EC%9D%B8%EA%B0%95%EB%93%A4%EC%9D%80%20%EA%B2%83%20%EC%A0%95%EB%A6%AC/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/1.%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81)
 
 [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.notion.so/MVC-1-73619f1ad90845e4a6f350e00a8f1551)
 
