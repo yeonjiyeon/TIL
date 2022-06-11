@@ -43,7 +43,7 @@
 
 [4월 유쾌한 수다 타임- 이동욱님](https://www.notion.so/4-69c7c9f02e504ee2a8932aab8018464e)
 
-[개발자가 갖추어야 할 9가지 기술-박종천](https://www.notion.so/9-5f53ceb223c746e6b94b3a27f03ca4ad)
+[개발자가 갖추어야 할 9가지 기술-박종천님](https://www.notion.so/9-5f53ceb223c746e6b94b3a27f03ca4ad)
 
 [헤이 조이스 데브 컨퍼런스](https://www.notion.so/aada9cbca9d84217a707b340ba5f47b5)
 
