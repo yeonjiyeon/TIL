@@ -4,7 +4,8 @@
 
 1. [객체지향의 사실과 오해](https://github.com/yeonjiyeon/readingstudy/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4)
 2. [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://github.com/yeonjiyeon/readingstudy/tree/main/%EC%9E%90%EB%B0%94%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%9B%90%EB%A6%AC%EC%99%80%20%EC%9D%B4%ED%95%B4)
-3. [SQL 첫걸음](https://github.com/yeonjiyeon/TIL-/tree/main/%EC%9D%BD%EC%9D%80%20%EC%B1%85%EB%93%A4%20%EC%A0%95%EB%A6%AC/SQL%EC%B2%AB%EA%B1%B8%EC%9D%8C/1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80%20SQL)
+3. [SQL 첫걸음](https://github.com/yeonjiyeon/TIL-/tree/main/%EC%9D%BD%EC%9D%80%20%EC%B1%85%EB%93%A4%20%EC%A0%95%EB%A6%AC/SQL%EC%B2%AB%EA%B1%B8%EC%9D%8C)
+4. 프로그래머의 길, 멘토에게 묻다
 
 <br/>
 <br/>
@@ -42,7 +43,7 @@
 
 [4월 유쾌한 수다 타임- 이동욱님](https://www.notion.so/4-69c7c9f02e504ee2a8932aab8018464e)
 
-[개발자가 갖추어야 할 9가지 기술-박종천](https://www.notion.so/9-5f53ceb223c746e6b94b3a27f03ca4ad)
+[개발자가 갖추어야 할 9가지 기술-박종천님](https://www.notion.so/9-5f53ceb223c746e6b94b3a27f03ca4ad)
 
 [헤이 조이스 데브 컨퍼런스](https://www.notion.so/aada9cbca9d84217a707b340ba5f47b5)
 
