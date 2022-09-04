@@ -7,7 +7,7 @@
 3. [SQL 첫걸음](https://github.com/yeonjiyeon/TIL-/tree/main/%EC%9D%BD%EC%9D%80%20%EC%B1%85%EB%93%A4%20%EC%A0%95%EB%A6%AC/SQL%EC%B2%AB%EA%B1%B8%EC%9D%8C)
 4. 읽기좋은 코드가 좋은 코드다. 
 5. 프로그래머의 길, 멘토에게 묻다
-6. [테스트 주도 개발 시작하기]()
+6. [테스트 주도 개발 시작하기](https://github.com/yeonjiyeon/TIL-/tree/main/%EC%9D%BD%EC%9D%80%20%EC%B1%85%EB%93%A4%20%EC%A0%95%EB%A6%AC/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%A3%BC%EB%8F%84%EA%B0%9C%EB%B0%9C%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/TDD%EC%8B%9C%EC%9E%91)
 7. [자바의 정석]()
 
 <br/>
