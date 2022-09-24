@@ -1,7 +1,6 @@
 
 - Jacoco : Java 코드의 커버리지를 체크하는 라이브러리
 
-[https://techblog.woowahan.com/2661/](https://techblog.woowahan.com/2661/)
 
 ```groovy
 //Gradle 설정에 JaCoCo 플러그인을 추가
