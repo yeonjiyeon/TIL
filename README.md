@@ -22,4 +22,4 @@
 ## Git
 
 ## 웹 공격 기술
-### XSS(크로스 사이트 스크립팅, cross-site scripting)
+### [XSS(크로스 사이트 스크립팅, cross-site scripting)](https://github.com/yeonjiyeon/TIL/blob/main/%EC%9B%B9%EA%B3%B5%EA%B2%A9%EA%B8%B0%EC%88%A0/XSS.md)
