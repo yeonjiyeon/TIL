@@ -22,4 +22,4 @@
 ## Git
 
 ## 웹 공격 기술
-
+### XSS(크로스 사이트 스크립팅, cross-site scripting)
