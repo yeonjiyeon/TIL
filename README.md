@@ -10,7 +10,7 @@
 ## Java
 ### [JaCoCo](https://github.com/yeonjiyeon/TIL/blob/main/Java/JaCoCo.md)
 ### 디자인 패턴
-#### Builder 
+#### Builder 패턴
 
 <br/>
 
