@@ -204,7 +204,7 @@ public class NutritionFacts {
 - 롬복의 @Builder
 
 ```java
-package com.iheuron.stroke.domain;
+package com.domain;
 
 import lombok.Builder;
 
@@ -235,7 +235,7 @@ public class NutritionFacts {
 // (powered by FernFlower decompiler)
 //
 
-package com.iheuron.stroke.domain;
+package com.domain;
 
 public class NutritionFacts {
     private int servingSize;
