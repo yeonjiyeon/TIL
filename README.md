@@ -71,3 +71,4 @@ Authorization: Bearer {{auth_token}}
 
 Postman 대안으로 사용  가능
 
+#### setting -> keymap : 단축키 찾기
