@@ -27,3 +27,4 @@ Postman 대안으로 사용  가능
 #### setting -> keymap : 단축키 찾기
 
 #### comand(control) + e : 이전 코드 보기
+#### comand + shift + enter
