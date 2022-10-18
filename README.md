@@ -14,7 +14,7 @@
 
 ### Security
 
-### DI.IOC
+### DI, IOC
 
 <br/>
 
