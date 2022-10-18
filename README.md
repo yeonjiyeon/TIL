@@ -46,7 +46,7 @@
 ## Tool
 ### Postman
 ### [IntelliJ](https://github.com/yeonjiyeon/TIL/blob/main/Tool/IntelliJ.md)
-#### HttpClient
+
 
 ## DataBase
 ### 트랜젝션
