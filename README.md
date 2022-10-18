@@ -14,7 +14,7 @@
 
 ### Security
 
-### DI
+### DI.IOC
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 ## Tool
 ### Postman
-### IntelliJ
+### [IntelliJ](https://github.com/yeonjiyeon/TIL/blob/main/Tool/IntelliJ.md)
 #### HttpClient
 
 ## DataBase
