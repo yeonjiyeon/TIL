@@ -11,6 +11,8 @@ HttpSecurity 클래스를 생성한다.
 강의 : 스프링 시큐리티(인프런) 
 
 http.formLogin(): 폼 로그인 인증 기능 제공
+
+
 **.loginPage(“/login.html") :** 로그인 페이지를 만들어 등록할 수 있음 
 
 **.usernameParameter("username")	:** 유저네임을 유저네임 파라미터명이 아니라 다른 파라미터명으로 지정해 줄 수 있다.
