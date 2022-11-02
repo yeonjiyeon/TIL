@@ -18,6 +18,9 @@
 
 <br/>
 
+## 데이터
+### JSON
+
 ## Web
 ### [JWT](https://github.com/yeonjiyeon/TIL/blob/main/web/JWT.md)
 ### session
