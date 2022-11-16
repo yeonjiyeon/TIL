@@ -38,9 +38,6 @@
 <br/>
 
 
-## DataBase
-### 인덱스
-
 ## [Redis](https://github.com/yeonjiyeon/TIL/blob/main/Redis.md) 
 
 ## [Docker](https://github.com/yeonjiyeon/TIL/blob/main/docker/docker%EB%9E%80.md)
@@ -57,6 +54,7 @@
 
 ## DataBase
 ### 트랜젝션
+### 인덱스
 
 ## OS
 ### 커널
