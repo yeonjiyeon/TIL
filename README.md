@@ -2,6 +2,7 @@
 
 ## Spring
 ### JPA
+#### 더티 체킹
 ### event
 
 ### Spring boot
