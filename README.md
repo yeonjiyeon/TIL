@@ -38,7 +38,7 @@
 ### [JaCoCo](https://github.com/yeonjiyeon/TIL/blob/main/Java/JaCoCo.md)
 ### 디자인 패턴
 #### [Builder 패턴](https://github.com/yeonjiyeon/TIL/blob/main/Java/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Builder%ED%8C%A8%ED%84%B4.md)
-#### [observer 패턴]()
+#### [observer 패턴](https://github.com/yeonjiyeon/TIL/blob/main/Java/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Observer%ED%8C%A8%ED%84%B4.md)
 #### Teplate Method 패턴
 
 <br/>
