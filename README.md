@@ -47,8 +47,8 @@
 ## [Redis](https://github.com/yeonjiyeon/TIL/blob/main/Redis.md) 
 
 ## [Docker](https://github.com/yeonjiyeon/TIL/blob/main/docker/docker%EB%9E%80.md)
-### 도커 기본 명령어
-### 이미지 만들기
+### 이미지
+### 컨테이너
 
 ## Git
 
