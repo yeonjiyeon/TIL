@@ -74,12 +74,13 @@
 ### 컨텍스트 스위칭
 ### 인터럽트
 ### scheduling
-### OSI 7계층
+
 
 ## 네트워크
 ### HTTP
 #### request, response
 ### CDN 
+### OSI 7계층
 
 ## 테스트
 ### TDD
