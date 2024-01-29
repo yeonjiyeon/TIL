@@ -1,6 +1,6 @@
 # Today I Learn 학습한 내용들 정리! 
 
-## Spring
+<summary> Spring </summary>
 
 <div markdown="1">
 ### JPA
