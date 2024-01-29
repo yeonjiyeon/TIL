@@ -1,6 +1,8 @@
 # Today I Learn 학습한 내용들 정리! 
 
 ## Spring
+
+<div markdown="1">
 ### JPA
 #### 더티 체킹
 #### @DynamicInsert, @DynamicUpdate
@@ -18,6 +20,7 @@
 ### Security
 
 ### DI, IOC
+</div>
 
 <br/>
 
