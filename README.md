@@ -1,12 +1,10 @@
 # Today I Learn 학습한 내용들 정리! 
 
-<summary> Spring </summary>
-<div markdown="1">
-PA
-더티 체킹
-@DynamicInsert, @DynamicUpdate
-event
-</div>
+## Spring 
+### JPA
+## 더티 체킹
+## @DynamicInsert, @DynamicUpdate
+## event
 
 ### Spring boot
 
