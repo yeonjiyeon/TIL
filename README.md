@@ -2,9 +2,9 @@
 
 ## Spring 
 ### JPA
-## 더티 체킹
-## @DynamicInsert, @DynamicUpdate
-## event
+#### 더티 체킹
+#### @DynamicInsert, @DynamicUpdate
+#### event
 
 ### Spring boot
 
