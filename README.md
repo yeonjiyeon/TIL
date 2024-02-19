@@ -1,4 +1,5 @@
 # Today I Learn 학습한 내용들 정리! 
+## 하루 10분이라도 공부하는 습관을 가ㅈ
 
 ## Spring 
 ### JPA
@@ -6,10 +7,7 @@
 #### @DynamicInsert, @DynamicUpdate
 #### event
 
-### Spring boot
-
 ### RestTemplate
-    
     • Spring 3부터 지원, REST API 호출이후 응답을 받을 때까지 기다리는 동기 방식
     
 ### WebClient
