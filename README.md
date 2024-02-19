@@ -1,20 +1,43 @@
 # Today I Learn 학습한 내용들 정리! 
+## Computer Sience
+### DataBase
+#### 데이터 모델링
+#### 트랜젝션
+#### 인덱스
 
-## Spring 
-### JPA
-#### 더티 체킹
-#### @DynamicInsert, @DynamicUpdate
-#### event
+### OS
+#### 커널
+#### 폰 노이만 구조
+#### 프로세스
+#### 쓰레드
+#### 컨텍스트 스위칭
+#### 인터럽트
+#### scheduling
 
-### RestTemplate
+
+### 네트워크
+#### HTTP
+##### request, response
+#### CDN 
+#### OSI 7계층
+
+
+## 현재 사용 기술들 공부
+### Spring 
+#### JPA
+##### 더티 체킹
+##### @DynamicInsert, @DynamicUpdate
+##### event
+
+#### RestTemplate
     • Spring 3부터 지원, REST API 호출이후 응답을 받을 때까지 기다리는 동기 방식
     
-### WebClient
+#### WebClient
     - Spring 5에 추가된 논블럭, 리엑티브 웹 클라이언트로 동기, 비동기 방식을 지원한다.
 
-### Security
+#### Security
 
-### DI, IOC
+#### DI, IOC
 
 
 <br/>
@@ -59,26 +82,6 @@
 ### [IntelliJ](https://github.com/yeonjiyeon/TIL/blob/main/Tool/IntelliJ.md)
 
 
-## DataBase
-### 데이터 모델링
-### 트랜젝션
-### 인덱스
-
-## OS
-### 커널
-### 폰 노이만 구조
-### 프로세스
-### 쓰레드
-### 컨텍스트 스위칭
-### 인터럽트
-### scheduling
-
-
-## 네트워크
-### HTTP
-#### request, response
-### CDN 
-### OSI 7계층
 
 ## 테스트
 ### TDD
